@@ -8,6 +8,7 @@ module.exports = {
     }]
   },
   title: "DDIA CN",
+  base: "/ddia/",
   markdown: {
     lineNumbers: true,
     extendMarkdown: md => {
